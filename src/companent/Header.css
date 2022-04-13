@@ -1,0 +1,31 @@
+.header{
+border-bottom: 1px solid black;
+margin: 20px;
+font-size: 30px;
+}
+.text{
+border: 1px solid black;
+float: left;
+width: calc(50% - 2px);
+font-style: oblique;
+background-color: yellowgreen;
+}
+.sablon{
+border: 1px solid black;
+margin: 20px;
+font-size: 25px;
+}
+.jpeg{
+border: 1px solid black;
+float: left;
+margin: 20px;
+display: flex;
+justify-content: space-between;
+}
+.text2{
+    border: 1px solid black;
+    float: left;
+    width: calc(50% - 2px);
+    font-style: oblique;
+    background-color: burlywood;
+}
